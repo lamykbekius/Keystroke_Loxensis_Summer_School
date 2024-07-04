@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christina's Haiku</title> 
+            <author>Christina Tserota</author> 
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="session"><!-- # of the session --></p> 
+            <p corresp="version"><!-- # of the text-version --></p> 
+            <p corresp="total_versions"><!-- total # of versions or sessions --></p> 
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l>3rd of July 2024</l> 
+               <l></l> 
+               <l>00:14:17</l> 
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p source="keystrokes">  
+            <seg>
+               <add seq= "000021" type= "nt" evidence= "21459-27917">In the morning light</add>
+               <lb/><add seq= "000029" type= "nt" evidence= "29629-35265">a child wakes up</add>
+               <lb/><add seq= "000037" type= "nt" evidence= "37163-38705">staring</add>
+               <del seq= "000051" type= "typo" evidence="51456-53106">staring</del>
+               <add seq= "000053" type= "nt" evidence= "53938-56684">the whole</add>
+               <add seq= "000105" type= "nt" evidence= "65136-65336">vo</add>
+               <del seq= "000105" type= "typo" evidence= "65847">o</del>
+               <add seq= "000106" type= "nt" evidence= "66220-71910">illage cheers.</add>
+            </seg>
+            <seg>
+               <lb/><lb/><add seq= "000142" type= "nt" evidence= "102871-114113">Trees listen quietly</add>
+               <lb/><add seq= "000155" type= "nt" evidence= "115636-117541">a mothers </add>
+               <add seq= "000158" type= "nt" evidence= "118746"> L </add>
+               <del seq= "000159" type= "typo" evidence= "119907">L</del>
+               <add seq= "000200" type= "nt" evidence= "120645-139130">lullaby</add>
+               <lb/><add seq= "000241" type= "nt" evidence= "161104-161440">amd</add>
+               <del seq= "000243" type= "typo" evidence= "163373-163654">md</del>
+               <add seq= "000244" type= "nt" evidence= "164314-434135">nd as the day goes by</add>
+               <lb/><add seq= "000728" type= "nt" evidence= "448460-455103">the stars start to shine.</add>
+            </seg> 
+            <seg>
+               <lb/><lb/><add seq= "000949" type= "nt" evidence= "589739-610631">Water lilies close their leaves</add>
+               <lb/><add seq= "001015" type= "nt" evidence= "615699-624583">and the village goes to sleep</add>
+               <lb/><add seq= "001026" type= "nt" evidence= "626689-634051">only for the moon to</add>
+               <add seq= "001041" type= "nt" evidence= "641838-644770">take its place</add>
+               <del seq= "001050" type= "typo" evidence= "650421-704472">take its place</del>
+               <add seq= "001145" type= "nt" evidence= "705099-709125">stay awake.</add>
+            </seg>
+            
+         </p>
+         <p source="sources"> 
+            <!-- Encode the sources here -->   
+         </p>
+      </body>
+   </text>
+</TEI>

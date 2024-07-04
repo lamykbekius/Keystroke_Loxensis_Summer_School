@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Haiku</title> 
+            <author>Racha</author> 
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="session"><!-- # of the session --></p> 
+            <p corresp="version"><!-- # of the text-version --></p> 
+            <p corresp="total_versions"><!-- total # of versions or sessions --></p> 
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l>03/07/2024</l> 
+               <l>000035</l> 
+               <l>000524</l> 
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p source="keystrokes">  
+         <add seq="000038" type="nt" evidence="15">Ghost is my German Shepherd dog, he is very stubborn but really smart, he <del seq="000245" type="pre-context">loves </del></add> 
+            <add seq="000248" type="nt|continue" evidence="106">enjoys doing the opposite of my commands and enjoys making me suffer lol, but maybe his charm is in his personallity, i love him a lot. </add> 
+         </p>
+         <p source="sources"> 
+            <!-- Encode the sources here -->   
+         </p>
+      </body>
+   </text>
+</TEI>

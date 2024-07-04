@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ballad on the annoying birds</title>
+            <author>wk</author>
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="session">1</p>
+            <p corresp="version">1</p>
+            <p corresp="total_versions">1</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l>3.07.2024</l>
+               <l>12:07:25</l>
+               <l>7min 48 sec</l>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p source="keystrokes">
+            <add type="nt" seq="000004" evidence="3"><del type="context" seq="000017" evidence="28">Ballada o braku
+               prądu</del></add>
+            <add type="nt" seq="000442" evidence="438">Ballada o <del type="typo" seq="000445" evidence="449">p</del></add><add
+               type="nt" seq="000446" evidence="450">zdradliwym ptactwie</add>
+            <l n="1"><add type="nt" seq="000030" evidence="32">W mieście, którego nazwy nie pomnę</add></l>
+            <l n="2"><add type="nt" seq="000046" evidence="66">Wrony zrzuciły pewnego dnia bomb<del
+                     type="pre-context" seq="000057" evidence="110">ę</del></add><add type="nt" seq="000058" evidence="111"
+                  >ę.</add></l>
+            <l n="3"><del type="context" seq="000618" evidence="581">
+               <add type="nt" seq="000055" evidence="101">
+                  <del
+                        type="pre-context" seq="000056" evidence="105">W efe
+                  </del>
+               </add>
+            </del>
+               <add type="nt" seq="000107" evidence="107">
+                  Efektem
+                  <del type="typo" seq="000121" evidence="128">m
+                  </del>
+               </add>
+               <add type="nt"
+                     seq="000221" evidence="148">,
+               </add>
+                  <add type="nt" seq="000218" evidence="133">
+                     <del type="pre-context" seq="000247" evidence="234">Czego chciały, 
+                  </del></add>
+                  
+                     <add type="nt" seq="000224"> Co chciały os
+                        <del type="typo" seq="000228"> g
+                        </del>
+                     </add>
+                     <add type="nt" seq="000227">iągnąć, 
+                        <del type="context" seq="000249" evidence="241">tajemnicą
+                        </del>
+                     </add>
+
+               <add type="nt" seq="000308" evidence="266">
+                  <del type="context" seq="000638" evidence="622">trudno
+                  </del>orzec
+               </add>
+               <add type="nt" seq="000640" evidence="626">trudno
+               </add>
+               <add type="nt" seq="000321" evidence="279">
+                  <del type="context" seq="000652" evidence="644">Efektów także nie sposób
+                     spostrzec
+                  </del>
+               </add>
+            </l>
+            <l n="4"><add type="nt" seq="000630" evidence="630">Dlatego pewnie w mieście było brudno</add></l>
+            <l n="5">
+               <add type="nt" seq="000410" evidence="322">Pieśń ta bez sensu, bomby <del type="typo" seq="000418" evidence="365"
+                     >by</del></add><add type="nt" seq="000418" evidence="367">n<del type="typo" seq="000419" evidence="371">uie
+                     b</del></add><add>ie było,</add>
+            </l>
+            <l n="6">
+               <add type="nt" seq="000424" evidence="388">Taki to fejknius się rozprzestrzeniło.</add>
+            </l>
+         </p>
+         <p source="sources">
+            <!-- Encode the sources here -->
+         </p>
+      </body>
+   </text>
+</TEI>
