@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Studio 100 Gedachtestroom</title> 
+            <author>Emma ten Doesschate</author> 
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="session">Sessie 1</p> 
+            <p corresp="version">Versie 1</p> 
+            <p corresp="total_versions">1</p> 
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l>03/07/2024</l> 
+               <l>12:06:00</l> 
+               <l>12:19:42</l> 
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p source="keystrokes">  
+            <add seq="000000059" type="nt" evidence="1">Bij het schrijven <del seq="000002369" type="typo" evidence="21"></del></add>
+            <add seq="000003050" type="nt|continue" evidence="22">van dit gedicht<del seq="000012562" type="pre-context" evidence="37">it gedicht</del></add>
+            <mod seq="000013971" type="continue|continue" evidence="48">eze tekst</mod>
+            <add seq="000019771" type="nt|continue" evidence="57">h<del seq="000020275" type="typo" evidence="58">h</del></add>
+            <add seq="000020637" type="nt|continue" evidence="59">r<del seq="000021001" type="typo" evidence="60">r</del></add>
+            <add seq="000021253" type="nt|continue" evidence="61">krijg ik een black-<del seq="000025444" type="typo" evidence="82">ot</del></add><add seq="000026233" evidence="84">out.</add>
+            <l><add seq="000035591" type="nt" evidence="92">Een black-o<del seq="000038249" type="typo" evidence="105">it</del></add><add seq="000038762" type="nt|continue" evidence="107">ut</add>
+            <add seq="000039170" type="nt|continue" evidence="110">vergezel<del seq="000041007" type="typo" evidence="120">fd</del></add><add seq="000041254" type="nt|continue" evidence="122">d van </add>
+            <add seq="000124074" type="nt|continue" evidence="182">Kabouter Plop en zijn aanstek<del seq="000155356" type="typo" evidence="213">l</del></add><add seq="000155569" type="nt|continue" evidence="214">elijke lied.</add></l>
+            <l><add seq="000210721" type="nt" evidence="230">Nu probe<del seq="000212933" type="typo" evidence="240">re</del></add><add seq="000213389" type="nt|continue" evidence="242">eer ik te denken wat r<del seq="000218819" type="typo" evidence="268">jimt </del></add><add seq="000219722" type="nt|continue" evidence="273">ijmt op black-out en <del seq="000226353" type="pre-context" evidence="299">denk </del></add><add seq="000227419" type="nt|continue" evidence="304">kom op het adjectief 'kou<del seq="000233684" type="typo" evidence="330">'</del></add><add seq="000233753" type="nt|continue" evidence="331">d'</add></l>
+            
+         </p>
+         <p source="sources"> 
+            <!-- Encode the sources here -->   
+         </p>
+      </body>
+   </text>
+</TEI>

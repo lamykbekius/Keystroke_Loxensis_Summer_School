@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notes by a co-writing team</title> 
+            <author>Co-writing team Elena &amp; Elisabeth</author> 
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="session">1</p> 
+            <p corresp="version">1</p> 
+            <p corresp="total_versions">1</p> 
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l><!-- Date of the writing session --></l> 
+               <l><!-- Start-time of the writing session --></l> 
+               <l><!-- Duration of the writing session --></l> 
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p source="keystrokes">  
+            <seg><add seq="000020" type="nt" evidence="2">Hi.</add></seg> 
+            <seg><add seq="000037" type="nt" evidence="7">Elisabeth tablet didn't make <del seq="000049" type="pre-context" evidence="38">ti</del></add><add seq="000050" type="nt|continue" evidence="40">it to process the <del seq="000107" type="pre-context" evidence="60">pro</del></add><add seq="000108" type="nt|continue" evidence="66">keystroke logger, so we are doing co-writing.</add></seg><lb/>
+            <seg><add seq="000130" type="nt" evidence="114">We are Elisabeth and Elena, we both speak italian and we <del seq="000204" type="context" evidence="230">struggling to do a good job here at the summer school.</del></add><add seq="000218" type="nt|continue" evidence="231">love editing texts.</add></seg> 
+            <seg><add seq="000232" type="nt" evidence="252">Now Elisabe<del seq="000235" type="pre-context" evidence="265">h</del><add seq="0000235" type="nt|continue" evidence="266">th</add> is taking control<del seq="000241" type="pre-context" evidence="299">l</del></add><add seq="000238" type="nt|continue" evidence="288">of the keyboard, so that we can test her too.</add></seg><lb/>
+            <seg><add seq="000256" type="nt" evidence="345">But please keep in m<del seq="000300" type="pre-context" evidence="366">n</del></add><add seq="000301" type="nt|continue" evidence="367">ind that this is a<del seq="000304" type="pre-context" evidence="387">n</del></add><add seq="000305" type="nt|continue" evidence="390">ver<del seq="000319" type="context" evidence="427">z</del></add><add>analogue mode of co-writing.</add></seg>
+            <seg><add seq="000330" type="nt" evidence="433">Elisabeth has to get used to Elenas ke<del seq="000341" type="pre-context" evidence="478">zboard</del></add><add seq="000342" type="nt|continue" evidence="484">yboard (the `<del seq="000350" type="pre-context" evidence="501">z</del></add><add seq="000352" type="nt|continue" evidence="503">y ` is not there where Elisabeth is used to find it), so this is the documentation of creative and spontane<del seq="000502" type="pre-context" evidence="626">a</del></add><add seq="000503" type="nt|continue" evidence="627">ous writing.</add></seg><lb/>
+            <seg><add seq="000605" type="nt" evidence="650">Elena's work:</add></seg><lb/>
+            <seg>
+               <add seq="000913" type="translocation" evidence="686">
+                  Nesta secção, apresento brevemente as variantes linguísticas encontradas em três dos manuscritos da CXMM, com o objetivo de indicar alguns fenómenos que poderão ser estudados com base neste texto. <add seq="000919" type="translocation" evidence="688"> As variantes foram classificadas <del seq="000927" type="pre-context" evidence="728">como</del><add seq="000927" type="nt|continue" evidence="729">, com base na sua categoria gramatical, em a. lexicais; b. morfológicas; c. sintáticas. Tentei, ainda, distinguir entre variantes do copista do corpo do texto e <del seq="001049" type="context" evidence="921">variantes</del></add> <add seq="001046" type="translocation" evidence="918">variantes introduzidas por José Pereira Baião.</add></add>
+            Note-se que a maioria dos dados expostos é, ainda, meramente quantitativa: não foi minha intenção esboçar nenhum estudo linguístico propriamente dito. Os dados foram levantados durante a colação dos testemunhos, que foi, por sua vez, efetuada com finalidades estemáticas – e não guiada por um olhar especificamente linguístico. Esta abordagem tem, certamente, muitas limitações, que pretendo superar ao continuar este estudo em futuro. Considerem-se, assim, estes resultados como provisórios e motivadores, por si só, de uma análise mais abrangente e minuciosa. As variantes linguísticas levantadas permitiram-me descrever o estado de língua dos testemunhos, simultaneamente avaliando-os enquanto fontes do PCl e avaliando a atuação do copista de E na sua maior ou menor aderência ao modelo linguístico do seu antígrafo. O estudo linguístico que apresento como resultado da colação e da análise das variantes linguísticas é complementado por uma análise das <del seq="001044" type="translocation" evidence="915">variantes introduzidas por José Pereira Baião.</del>
+            </add>
+            </seg>
+               
+                  
+                                  
+         </p>
+         <p source="sources"> 
+            <!-- Encode the sources here -->   
+         </p>
+      </body>
+   </text>
+</TEI>

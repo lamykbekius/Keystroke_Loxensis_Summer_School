@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Haiku</title>
+            <author>Beatrice</author>
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="session"><!-- # of the session --></p>
+            <p corresp="version"><!-- # of the text-version --></p>
+            <p corresp="total_versions"><!-- total # of versions or sessions --></p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l><!-- Date of the writing session --></l>
+               <l><!-- Start-time of the writing session --></l>
+               <l><!-- Duration of the writing session --></l>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p source="keystrokes">
+            <add seq="000025" type="nt" evidence="2-37"><del seq="000147" type="context"
+                  evidence="49-53">The a</del><add seq="000149" type="context" evidence="55"
+               >A</add>ir brushes <del seq="000150" type="context" evidence="56-59">the</del> br<del
+                  seq="000041" type="typo" evidence="28-31">unch</del>anches</add><lb/>
+            <add seq="000047" type="nt" evidence="40-45">A leaf </add><mod seq="000208"
+               type="continue" evidence="60">is falling down</mod><lb/>
+            <add seq="000304" type="nt" evidence="78-98">Yellow sparkling tear</add>
+         </p>
+         <p source="sources">
+            <!-- Encode the sources here -->
+         </p>
+      </body>
+   </text>
+</TEI>

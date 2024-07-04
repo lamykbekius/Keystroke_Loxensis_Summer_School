@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chove chuva</title> 
+            <author>Brenda B. Thomé</author> 
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="session"><!-- # of the session --></p> 
+            <p corresp="version"><!-- # of the text-version --></p> 
+            <p corresp="total_versions"><!-- total # of versions or sessions --></p> 
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l>July third 2024</l> 
+               <l><!-- Start-time of the writing session --></l> 
+               <l><!-- Duration of the writing session --></l> 
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p source="keystrokes">  
+            <seg><add seq="000245612" type="nt" evidence="59-63">C</add> <del seq="00246436" type="typo" evidence="64-67">>Hove</del> <add seq="000247343" type="nt|typo" evidence="68-72">hove </add><add seq="000248051" type="nt|continue" evidence="73-94">chuva, chove sem parar</add></seg><lb/>
+            <seg><add seq="000316783" type="nt|continue" evidence="98-132"> Só que esse verão não tem samba</add></seg><lb/>
+            <seg><add seq="000327689" type="nt|continue" evidence="138-168"> Não tem samba pra gente sambar</add></seg></p><lb/>
+         <p source="sources"> 
+            <!-- Encode the sources here -->   
+         </p>
+      </body>
+   </text>
+</TEI>

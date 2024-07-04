@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I was asked to write a haiku</title>
+            <author>Ella</author>
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="session"><!-- # of the session --></p>
+            <p corresp="version"><!-- # of the text-version --></p>
+            <p corresp="total_versions"><!-- total # of versions or sessions --></p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l><!-- Date of the writing session --></l>
+               <l><!-- Start-time of the writing session --></l>
+               <l><!-- Duration of the writing session --></l>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p source="keystrokes">
+            <seg><add seq="000000" type="nt" evidence="2">I was asked to write a haiku<del
+                     seq="000007" type="pre-context" evidence="32">,</del></add><add seq="000007"
+                  type="nt" evidence="34"> but I was <del seq="000010" type="pre-context"
+                     evidence="51">not i</del></add><add seq="000012" type="pre-context"
+                  evidence="56">unable to.</add></seg><lb/><seg><add seq="000019" type="nt"
+                  evidence="72">This poem <del seq="000021" type="pre-context" evidence="83"
+                  >t</del></add><add seq="000021" type="nt" evidence="84">will be short and <del
+                     seq="000025" type="pre-context" evidence="103">b</del></add><add seq="000026"
+                  type="nt" evidence="104">might <add seq="000035" type="context" evidence="134">,
+                     in fact</add>not <del seq="000042" type="context" evidence="152">be</del><add
+                     seq="000042" type="nt" evidence="154"><del seq="000044" type="context"
+                        evidence="160">turn i</del></add> a poem at all.</add></seg><lb/><seg><add
+                  seq="000053" type="nt" evidence="170">Writing on <add seq="000111"
+                     type="pre-context" evidence="206">a</add> ke<del seq="000057" type="typo"
+                     evidence="184">u</del></add><add seq="000057" type="type" evidence="185"
+                        >y</add><add seq="000057" type="nt" evidence="186">board instead of <del seq="000116" type="pre-context" evidence="215">a </del></add><add
+                           seq="000115" type="nt" evidence="210"><del seq="000116" type="pre-context" evidence="215-">with </del></add><add seq="000117" type="nt"
+                  evidence="222">with a pen <del seq="000120" type="pre-context" evidence="237">and</del></add><add seq="000121" type="nt" evidence="241">on paper makes the w<del seq="000127" type="typo" evidence="262">i</del>riting faster it would seem.</add></seg>
+         </p>
+         <p source="sources">
+            <!-- Encode the sources here -->
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exercício SSDH</title> 
+            <author>Maria Sousa</author> 
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="session"><!-- # of the session --></p> 
+            <p corresp="version"><!-- # of the text-version --></p> 
+            <p corresp="total_versions"><!-- total # of versions or sessions --></p> 
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l><!-- Date of the writing session --></l> 
+               <l><!-- Start-time of the writing session --></l> 
+               <l><!-- Duration of the writing session --></l> 
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p source="keystrokes">  
+            <add seq="000035" type="nt" evidence="6">O primeiro artigo<del seq="000040" type="typo" evidence="24">c</del></add>
+            <add seq="000040" type="nt|continue" evidence="25"> ci<del seq="000041" type="typo" evidence="30">ne</del></add>
+            <add seq="000042" type="nt|continue" evidence="32">entífico sobre o corpo morto de Deus, caído na madrugada de quatro de março em Vi<del seq="000101" type="typo" evidence="116">ç</del></add>
+            <add seq="000101" type="nt|continue" evidence="117">la<del seq="000217" type="typo" evidence="240">s</del><add seq="000217" type="context" evidence="242">r</add> Formoso, com a cabeça em Celorico da Beira e um p<del seq="000114" type="typo" evidence="171">r</del></add>
+            <add seq="000114" type="nt|continue" evidence="172">ezi<del seq="000115" type="typo" evidence="176">j</del></add>
+            <add seq="000116" type="nt|continue" evidence="177">nho a rasar Espanha, sa<del seq="000129" type="typo" evidence="201">o</del></add>
+            <add seq="000130" type="nt|continue" evidence="201">iu <del seq="000130" type="typo" evidence="207">uq</del></add>
+            <add seq="000132" type="nt|continue" evidence="209">quatro horas após a queda. </add>
+            <mod seq="000239" type="continue" evidence="246">O artigo <del seq="000256" type="typo" evidence="201">i</del></mod>
+            <add seq="000243" type="nt|continue" evidence="257">usava<del seq="000252" type="typo" evidence="278"> análise de cor</del></add>
+            <add seq="000254" type="nt|continue" evidence="292">dados da Força Aérea e registos sismológicos para c<del seq="000323" type="typo" evidence="392">sa</del></add>
+            <add seq="000323" type="nt|continue" evidence="395">al<del seq="000324" type="typo" evidence="399">oc</del></add>
+            <add seq="000324" type="nt|continue" evidence="402">cular a densidade do corpo
+               <del seq="000651" type="typo" evidence="764">
+                  , e <del seq="000323" type="context" evidence="651">não referia o seu</del>
+               </del>
+            </add>
+            <add seq="000537" type="nt|continue" evidence="668">
+               <del seq="000651" type="context" evidence="765">
+                  apenas referia o facto de ser humanóide <del seq="000557" type="typo" evidence="712">com</del>
+               </del>
+            </add>
+            <add seq="000653" type="nt|continue" evidence="766">: o <del seq="000656" type="typo" evidence="802">serultafd</del></add>
+            <add seq="000657" type="nt|continue" evidence="788">resultado foi um intervalo enorme com margens de erro ainda maiores que apenas refere que o corpo é humanóde quando <del seq="000852" type="typo" evidence="1099">quer</del></add>
+            <add seq="000854" type="nt|continue" evidence="1102">precisa de estimar o seu grau de aerodinamismo.</add>
+          </p>
+         <p source="sources"> 
+            <!-- Encode the sources here -->   
+         </p>
+      </body>
+   </text>
+</TEI>
