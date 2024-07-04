@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><!-- title of the text --></title> 
+            <author><!-- author of the text --></author> 
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="session"><!-- # of the session --></p> 
+            <p corresp="version"><!-- # of the text-version --></p> 
+            <p corresp="total_versions"><!-- total # of versions or sessions --></p> 
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l><!-- Date of the writing session --></l> 
+               <l><!-- Start-time of the writing session --></l> 
+               <l><!-- Duration of the writing session --></l> 
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p source="keystrokes">  
+            <add seq="000001" type="nt" evidence="2">Running th<del>orug</del>rough the fields,</add>  
+            <add seq="000012" type="nt" evidence="43">Tail wagging in pure del<del>gith</del>ight,</add>
+            <add seq="000022" type="nt" evidence="86"><del>Fo</del>Dog's joy knows no bounds</add>
+         </p>
+         <p source="sources"> 
+            <!-- Encode the sources here -->   
+         </p>
+      </body>
+   </text>
+</TEI>

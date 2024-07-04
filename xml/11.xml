@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>a true Gone Girl</title> 
+            <author>Céline Debruyn</author> 
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="session"><!-- # of the session --></p> 
+            <p corresp="version"><!-- # of the text-version --></p> 
+            <p corresp="total_versions"><!-- total # of versions or sessions --></p> 
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l><!-- Date of the writing session --></l> 
+               <l><!-- Start-time of the writing session --></l> 
+               <l><!-- Duration of the writing session --></l> 
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p source="keystrokes">  
+            <add seq="00001" type="nt" evidence="2">Oh, to be Amy Dunne. </add>
+            <add seq="00006" type="nt" evidence="27"> A woman with a
+               <del seq="00008" type="typo" evidence="42">a</del>
+               </add><add seq="00010" type="nt|continue" evidence="44-50">brain.</add>
+            <add seq="00014" type="nt" evidence="53"> Bowing down to no one, not even her own
+               <del seq="00025" type="typo" evidence="94">d</del>
+               </add><add seq="00029" type="nt|continue" evidence="96-104">husband.</add>
+            <add seq="00033" type="nt" evidence="107">Yes, she might be psychotic.</add>
+            <add seq="00044" type="nt" evidence="139"> but she is so
+               <del seq="00046" type="typo" evidence="152">o</del>
+               </add><add seq="00048" type="nt|continue" evidence="155-160">cool.</add>
+            <del seq="00053" type="typo" evidence="163">A</del>
+            <del seq="00055" type="typo" evidence="166-171"> The re</del>
+            <add seq="00058" type="nt" evidence="180"> A real cool girl, but not like the one she describes.</add>
+            <add seq="00117" type="nt" evidence="239"> She is Gone Girl</add>
+         </p>
+         <p source="sources"> 
+            <!-- Encode the sources here -->   
+         </p>
+      </body>
+   </text>
+</TEI>
+
+
+
+
+
+
+
